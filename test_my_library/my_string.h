@@ -1,0 +1,2 @@
+int mylib(void);
+

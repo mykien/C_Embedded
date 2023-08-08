@@ -1,0 +1,1 @@
+int Tinhtong(int a, int b);

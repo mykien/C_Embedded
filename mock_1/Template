@@ -1,0 +1,1147 @@
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
+
+// Content from C:\Users\PC\Desktop\tsst/Template.txt
+/*
+** ###################################################################
+**     Processor:           S32K144
+**     Compiler:            Keil ARM C/C++ Compiler
+**     Version:             rev. 1.0, <NOW>
+**
+**     Abstract:
+**         Peripheral Access Layer for S32K144
+**
+** ###################################################################
+*/
+
+/* Prevention from multiple including the same memory map */
+#if !defined(<NAME_FILE>_H_)  /* Check if memory map has not been already included */
+#define (<NAME_FILE>_H_)  
+
+/* ----------------------------------------------------------------------------
+   -- Peripheral Access Layer
+   ---------------------------------------------------------------------------- */
+/* <MSN>  */
+typedef struct {
+  <volatile> <const> <unsigned int> <REGISTER>;
+} <MSN>_Type;
+
+#define <MSN>_BASE_ADDRS (<Base_Address>)
+#define <MSN> ((<MSN>_Type*)<MSN>_BASE_ADDRS)
+..........
+
+#endif  /* #if !defined(<NAME_FILE>_H_) */
